@@ -41,4 +41,4 @@ Python · NumPy · PyTorch · GloVe · NLP · Machine Learning
 
 This project originated from an assignment for **DS-GA 1011 at New York University**. The assignment specification and supporting infrastructure were provided by the course staff.
 
-The implementation contained in `models.py` is my work.
+The implementation included in this repositorym, contained in `models.py`, is my work.
